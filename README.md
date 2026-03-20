@@ -22,3 +22,8 @@ for educational institutions.
 2. Import `config/web_base.sql` in phpMyAdmin
 3. Configure `config/school.php` with your DB credentials
 4. Run with XAMPP
+
+
+
+
+
