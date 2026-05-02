@@ -1,4 +1,4 @@
-# LearnBridge 🎓
+# LearnBridge  🎓
 
 A web-based platform for managing exams and student grades 
 for educational institutions.
